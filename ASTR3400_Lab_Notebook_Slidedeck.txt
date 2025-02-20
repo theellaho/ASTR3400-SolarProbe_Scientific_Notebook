@@ -1,0 +1,55 @@
+2025-02-10             Slide Deck 
+
+February 10, 2025 
+
+-------------------------
+Parker Solar Probe 
+-------------------------
+
+SPACECRAFT SHAPE AND DIMENSIONS
+- Shape: Roughly cylindrical with a con-shaped shield on the sun-facing side. 
+- Dimensions:
+    - Height: ~2.1 meters 
+    - Width: ~2.3 meters at its widest point.
+    - Length: ~3.2 meters from tip of its heat shield to the end of solar panels.
+
+
+KEY MISSION MILESTONES
+- Launch (August 12, 2018): Successfully launch from Cape Canaveral, Florida and headed towards the Sun. 
+
+- First Close Approach (Perihelion 1) (November 5, 2018): The Probe made its first close approach to the Sun (about 24 million miles, or 39 million kilometers from the Sun's surface).
+
+- First Science Data Transmission (December 2018): The Probe transmitted its first set of science data back to Earth.
+
+- Second Perihelion (April 4, 2019): The Probe passed even closer to the Sun (about 15 million miles, or 24 million kilometers).
+
+- First Close Encounter with the Sun's Corona (August 2020): The Probe detected the Sun's corona, which allowed us to study the solar wind’s acceleration.
+
+
+INSTRUMENTS
+- FIELDS (Magnetometer Instrument): Measures the Sun's electric and magnetic fields. Provides data on the solar wind's structure and behavior and helps understand the mechanisms that heat the corona and accelerate the solar wind.
+
+- WISPR (Wide-Field Imager for Parker Solar Probe): Captures images of the solar wind and the corona, allowing scientists to observe the structure and dynamics of the solar corona and solar wind as the spacecraft gets closer to the Sun.
+
+
+-------------------------
+The Solar Wind
+-------------------------
+
+TYPICAL CONDITIONS NEAR EARTH
+- Density: ~3-10 particles per cubic cm
+- Velocity: ~300-500 km/s
+- Temperature: ~100 Kilokelvin
+- Magnetic Field |B|: ~5-10 nT (nanoteslas)
+
+
+REVIEW ARTICLES
+- Verscharen, D., Klein, K., & Maruca, B. (Dec 2019). "The multi-scale nature of the solar wind". Living Reviews in Solar Physics, Vol 16, Article 5. Retrieved from https://link.springer.com/article/10.1007/s41116-019-0021-0
+
+- Vidotto, A. (April 2021). "The evolution of the solar wind". Living Reviews in Solar Physics, Vol 18, Article 3. Retrieved from https://link.springer.com/article/10.1007/s41116-021-00029-w
+
+
+CURRENT QUESTIONS ABOUT SOLAR WIND BEHAVIOR
+- What causes the solar wind's acceleration?
+- How do solar cycles affect solar wind behavior?
+- How does solar wind's magnetic field affect different celestial bodies?
